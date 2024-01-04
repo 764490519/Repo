@@ -9,7 +9,6 @@ int add()
 int main()
 {
 
-    printf("hello word");
     printf("Git Kraken");
     return 0;
 }
