@@ -15,12 +15,21 @@ int add1(int a)
 }
 int add2(int a)
 {
-    a++;    
+    a++;
     a++;
 }
 
 int add3(int a)
 {
+    a++;
+    a++;
+    a++;
+}
+
+int add5(int a)
+{
+    a++;
+    a++;
     a++;
     a++;
     a++;
