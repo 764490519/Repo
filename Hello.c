@@ -34,7 +34,6 @@ int add4(int a)
     a++;
 }
 
-
 int add5(int a)
 {
     a++;
@@ -42,4 +41,10 @@ int add5(int a)
     a++;
     a++;
     a++;
+}
+
+void new_function()
+{
+
+    printf("This is a new function");
 }
