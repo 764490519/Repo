@@ -8,9 +8,3 @@ int main()
     printf("Git Kraken");
     return 0;
 }
-
-void test()
-{
-
-    printf("test function");
-}

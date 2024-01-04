@@ -9,8 +9,11 @@ int main()
     return 0;
 }
 
-void test()
+int add5(int a)
 {
-
-    printf("test function");
+    a++;
+    a++;
+    a++;
+    a++;
+    a++;
 }
