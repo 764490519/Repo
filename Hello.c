@@ -9,32 +9,6 @@ int main()
     return 0;
 }
 
-int add1(int a)
-{
-    a++;
-}
-int add2(int a)
-{
-    a++;
-    a++;
-}
-
-int add3(int a)
-{
-    a++;
-    a++;
-    a++;
-}
-
-int add4(int a)
-{
-    a++;
-    a++;
-    a++;
-    a++;
-}
-
-
 int add5(int a)
 {
     a++;
