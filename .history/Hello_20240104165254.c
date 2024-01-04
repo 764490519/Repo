@@ -9,12 +9,6 @@ int main()
     return 0;
 }
 
-void mainfunction()
-{
-
-    printf("This is main branch function");
-}
-
 void test()
 {
 
