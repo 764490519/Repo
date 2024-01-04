@@ -13,3 +13,10 @@ int add1(int a)
 {
     a++;
 }
+
+int add3(int a)
+{
+    a++;
+    a++;
+    a++;
+}
