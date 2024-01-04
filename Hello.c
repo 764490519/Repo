@@ -25,3 +25,12 @@ int add3(int a)
     a++;
     a++;
 }
+
+int add4(int a)
+{
+    a++;
+    a++;
+    a++;
+    a++;
+}
+
